@@ -1,0 +1,27 @@
+Metadata-Version: 1.0
+Name: linc_api_client
+Version: 0.0.1
+Summary: A client for VDSF Barrel.
+Home-page: 
+Author: Andre E Toscano
+Author-email: andre@venidera.com
+License: GNU GPL version 3
+Description: linc_api_client
+        ======
+
+        Python client to LINC API
+
+        Installation
+        ===
+        Clone this repo, then
+        ```
+        python setup.py install
+        ```
+
+Keywords: data store engine, data science
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: Operating System :: Unix
+Classifier: Topic :: Utilities
